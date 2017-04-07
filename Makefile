@@ -1,4 +1,4 @@
-VERSION  = 0.1
+VERSION  = 0.2
 NAME     = pam_succeed_if_rhost
 SOURCES  = $(NAME).c
 SOURCES += Makefile
